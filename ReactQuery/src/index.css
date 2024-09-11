@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(31, 30, 30);
+  color:azure;
+}
+
+h1 {
+  margin: 3rem;
+  border: solid;
+  text-align: center;
+}
+
+h2 {
+  margin: 1rem;
+  margin-left: 5rem;
+  text-decoration: underline;
+}
+
+li {
+  margin-left: 7rem;
+}
